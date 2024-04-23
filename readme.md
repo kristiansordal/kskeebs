@@ -3,9 +3,8 @@ This repo contains PCB designs and CAD files for a 36-key split keyboard I'm cur
 
 ## Pictures
 
-![PCB Design][http://wwww.github.com/kristiansordal/kskeebs/img/pcb.jpg]
-
-![3D Model][http://wwww.github.com/kristiansordal/kskeebs/img/3d.jpg]
+![PCB Design](https://github.com/kristiansordal/kskeebs/tree/main/img/pcb.png)
+![3D Model](https://github.com/kristiansordal/kskeebs/tree/main/img/3d.png)
 
 
 
